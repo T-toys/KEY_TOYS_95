@@ -1,12 +1,10 @@
 # KEY_TOYS_73 ファームウェア
 
 ## キーマップ
-104キーボードからFキー・テンキー他を取って、row-staggeredから格子配列風に無理やり変更し、<br>
-隙間に余ったキーを入れ込んだレイアウトです。<br>
-左下の2キーには特に使い道がなくてスペースを割り当ててます。<br>
+5×19の格子配列ですので、マップレイアウトの自由度は比較的高いです。一体型ですが文字キーをスプリットさせて配置しています。<br>
 2つ目のレイヤーの数字キー位置にFキーを割り当てています。
 
-<img width="700" alt="" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/key_toys_73-keylayout.png">
+<img width="700" alt="" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/key_toys_73-keylayout1.png">
 
 ## ファームウェアを書き込む
 
