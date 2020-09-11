@@ -25,5 +25,5 @@ PCBにハンダ付けする部品は実装済ですので、上下プレート�
 
 
 * [ビルドガイド](https://github.com/T-toys/KEY_TOYS_73/blob/master/buildguide1.md)<br>
-* [ファームウェア](https://github.com/T-toys/KEY_TOYS_73/blob/master/firmware1.md)
+* [ファームウェア](https://github.com/T-toys/KEY_TOYS_95/blob/master/firmware.md)
 
