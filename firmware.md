@@ -11,8 +11,8 @@
 ## ファームウェアを書き込む
 
 [QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases) を用意します。<br>
-[key_toys_73_default.hex](https://github.com/T-toys/qmk_firmware-key_toys) を用意します。<br>
-（Download ZIPでファイルをダウンロードして[key_toys_73_default.hex]を用意してください）
+[key_toys_95_rev1_default.hexまたは、key_toys_95_rev1_left.hex](https://github.com/T-toys/qmk_firmware-key_toys) を用意します。<br>
+（Download ZIPでファイルをダウンロードして[key_toys_95_rev1_default.hex]または、[key_toys_95_rev1_left.hex]を用意してください）
 
 <img width="700" alt="" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/sc1.png">
 
