@@ -5,8 +5,8 @@
 2つ目のレイヤーの数字キー位置にFキーを割り当てています。<br>
 中央にテンキーを配置した（default）と、左にテンキーを配置した（left）の、2つのレイアウトを用意しています。
 
-<img width="700" alt="" src="https://github.com/T-toys/KEY_TOYS_95/blob/master/image/key_toys_95-keylayout-default.png">
-<img width="700" alt="" src="https://github.com/T-toys/KEY_TOYS_95/blob/master/image/key_toys_95-keylayout-left.png">
+<img width="700" alt="" src="https://github.com/T-toys/KEY_TOYS_95/blob/master/image/key_toys_95-keylayout-default.png">（default）
+<img width="700" alt="" src="https://github.com/T-toys/KEY_TOYS_95/blob/master/image/key_toys_95-keylayout-left.png">（left）
 
 ## ファームウェアを書き込む
 
