@@ -23,7 +23,7 @@ QMK Toolboxでファームウェアを書き込みます。PCとプロマイク�
 1. AUto-Flash のチェックボックスに☑をします。<img width="700" alt="" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/sc7.png"><br>
 1. キーボードのリセットスイッチを押して書き込みます。<img width="700" alt="" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/sc5.png"><br><br>
 このような表示が出れば書き込み完了です。<br><br>
-**これを左右2つのpromicroで行えば書き込み作業完了です('ω')**
+**これを左右のpromicro2つ分行えば作業完了です('ω')**
 <br>
 ***
 <br>
