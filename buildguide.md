@@ -44,36 +44,13 @@
 ### Pro Micro
 
 1. PCBとスプリングピンヘッダとPro Microを組込みます。<br>
- 1-1. PCBの表面側からピンを差し込みます。スプリングピンヘッダは推奨の向きがあります。<br>
+ 1-1. PCBの裏面側からピンを差し込みます。スプリングピンヘッダは推奨の向きがあります。<br>
 　　樹脂部分側面の小さな穴を基準に、穴が無い方のピンがPCB側。穴が開いている方のピンがPro Micro側。<br>
 　　また、2つのヘッダは穴が同じ方向を向くように取り付けます。<br>
  1-2. USBコネクタがPCBの外側を向く位置にし、Pro Microのチップ部品のついている側からピンを差し込みます。<br>
 1. Pro Micro側のピンをハンダ付けします。<br>
 （PCB側のピンはハンダ付けしません）<br>
-<img width="400" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/IMG_163037-2.jpg"><img width="400" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/IMG_163150-2.jpg">
-
-### リセットスイッチ
-
-1. PCBの表面側からスイッチの足を差し込みハンダ付けします。<br>
-    <img width="400" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/IMG_163402-2.jpg1">
-
-### スタビライザー
-
-1. スタビライザーを組みます。<br>
- 1-1. アウターの下から軸を入れます。(向きがあります)<br>
- 1-2. 軸を上に持ち上げてワイヤーの先を軸に差し込みます。<br>
- 1-3. ワイヤーをアウターのキャッチに固定します。<br>
-<img width="400" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/IMG_164027-2.jpg1"><img width="400" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/IMG_164211-2.jpg1"><br>
-
-1. キャップのサイズが2U以上の箇所にスタビライザーを取り付けます。<br>
- 2-1. PCB表面の大きい方の穴にホック側を差し込み、小さい方の穴にナット側を差し込みます。<br>
- 2-2. PCB裏面からネジで固定します。<br>
-     <img width="800" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/IMG_171039-2.jpg1">
-
-### プレートの準備
-
-1. トッププレート裏面に7.5mmスペーサーをネジで取り付けます。<br>
-    <img width="400" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/IMG_172513.jpg1">
+<img width="400" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/IMG_163037-2.jpg"><img width="400" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/IMG_163150-2.jpg1">
 
 ### キースイッチ
 
@@ -82,9 +59,10 @@
 1. プレートに固定されたスイッチピンをPCBのソケットに差し込みます。<br>
 <img width="266" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/IMG_225006-2.jpg1"><img width="266" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/IMG_225106-2.jpg1"><img width="266" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/IMG_225208-2.jpg1"><br>
 
-
 ### プレート組
 
+1. トッププレート裏面に9.5mmスペーサーをネジで取り付けます。<br>
+    <img width="400" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/IMG_172513.jpg1">
 1. 組上がったトッププレート&PCBにボトムプレートをネジで取り付けます。<br>
     <img width="800" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/IMG_230501-2.jpg1">
 
