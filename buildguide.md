@@ -62,9 +62,7 @@
 ### プレート組
 
 1. トッププレート裏面に9.5mmスペーサーをネジで取り付けます。<br>
-    <img width="400" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/IMG_172513.jpg1">
 1. 組上がったトッププレート&PCBにボトムプレートをネジで取り付けます。<br>
-    <img width="800" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/IMG_230501-2.jpg1">
 
 ### その他
 
@@ -76,6 +74,6 @@
 <br>
 
 ### 完成です('ω')
-<img width="1000" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/IMG_232837-2.jpg1">
+<img width="1000" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_95/blob/master/image/IMG_0858-3.jpg">
    
 
