@@ -57,7 +57,7 @@
 1. スイッチのピンが付いている方をトッププレート表面から差込み、スイッチをプレートに固定すます。<br>
 （ピンの位置はPCBのソケット位置に合わせます）<br>
 1. プレートに固定されたスイッチピンをPCBのソケットに差し込みます。<br>
-<img width="266" alt="代替テキスト" src="httphttps://github.com/T-toys/KEY_TOYS_95/blob/master/image/IMG_13%2053%2034.jpg"><img width="266" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_95/blob/master/image/IMG_13%2053%2022.jpg"><img width="266" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_95/blob/master/image/IMG_13%2053%2002.jpg"><br>
+<img width="266" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_95/blob/master/image/IMG_13%2053%2034.jpg"><img width="266" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_95/blob/master/image/IMG_13%2053%2022.jpg"><img width="266" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_95/blob/master/image/IMG_13%2053%2002.jpg"><br>
 
 ### プレート組
 
