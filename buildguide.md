@@ -69,7 +69,7 @@
 1. キーキャップをスイッチに取り付ける。<br>
 2. ゴム脚をキーボード底面の縁に取り付ける。<br>
 3. お好みで、ボトムプレートのネジを15mmスペーサーに変更することでチルトさせることができます。<br>
-    <img width="800" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_73/blob/master/image/IMG_231423-2.jpg1">
+    <img width="800" alt="代替テキスト" src="https://github.com/T-toys/KEY_TOYS_95/blob/master/image/IMG_17%2025%2051-2.jpg">
 <br>
 <br>
 
